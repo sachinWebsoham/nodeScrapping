@@ -1,8 +1,3 @@
-// const http = require("http");
-// const https = require("https");
-// const cheerio = require("cheerio");
-// const fetch = require("node-fetch");
-// const express = require("express");
 import http from "http";
 import https from "https";
 import cheerio from "cheerio";
