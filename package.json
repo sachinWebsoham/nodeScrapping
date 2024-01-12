@@ -6,10 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ./index.js",
+    "dev": "node ./src/index.js",
     "build": "node build",
-    "start": "node ./index.js",
-    "nodemon": "nodemon ./index.js"
+    "start": "node ./src/index.js",
+    "nodemon": "nodemon ./src/index.js"
   },
   "keywords": [],
   "author": "",
